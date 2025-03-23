@@ -1,0 +1,8 @@
+# Ignore IDE settings folder for JetBrains IDEs
+.idea/
+
+# (Optional) Ignore common Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/ 
